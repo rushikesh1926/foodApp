@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 7a213ad6261c0c008fdfae50c4e8e2d98086b017757d53ae0474b7b94a1e7180
+- filename: components/MealDetail/List.js
+  checksum: a340525cd0abf5e855319b5cfbc221080ee22e91e0d38fbb90ff183cbc4f853d
+- filename: screens/CategoriesScreen.js
+  checksum: 6e350b2ca4f00606a6b86f9e99087dea231a03d79e5685937409e141cb637506
+- filename: components/MealsList/MealsList.js
+  checksum: b11e0de1345262e240469f15bf70ddd5dcd69598cd81582dcbc0af9db9ce12f4
+version: ""
